@@ -28,7 +28,7 @@ export function Hero() {
         >
             <div className="bg-[url(https://prium.github.io/elixir/v3.0.0/assets/img/header-6.jpg)] bg-cover max-w-[1540px]">
                 <div className="container w-full h-[645px] flex items-center justify-between">
-                    <Card className="mt-6 w-[650px] bg-transparent flex flex-col gap-10 shadow-none text-[#2A3855] rounded-none">
+                    <Card className="mt-6 w-[650px] bg-transparent flex flex-col gap-10 shadow-none text-[#222e47] rounded-none">
                         <CardBody className="flex flex-col gap-10">
                             <Typography variant="h5" color="blue-gray" className="mb-2 text-5xl font-black animate-fade-up animate-duration-1000 animate-delay-500">
                                 Helping Leaders
@@ -48,7 +48,7 @@ export function Hero() {
 
             <div className="bg-[url(https://prium.github.io/elixir/v3.0.0/assets/img/header-5.jpg)] bg-cover">
                 <div className="container w-full h-[645px] flex items-center justify-between">
-                    <Card className="mt-6 w-[650px] bg-transparent flex flex-col gap-10 shadow-none text-[#2A3855] rounded-none">
+                    <Card className="mt-6 w-[650px] bg-transparent flex flex-col gap-10 shadow-none text-[#222e47] rounded-none">
                         <CardBody className="flex flex-col gap-10">
                             <Typography variant="h5" color="blue-gray" className="mb-2 text-5xl font-black animate-fade-up animate-duration-1000 animate-delay-500">
                                 Expert Consultants
@@ -67,7 +67,7 @@ export function Hero() {
             </div>
             <div className="bg-[url(https://prium.github.io/elixir/v3.0.0/assets/img/header-1.jpg)] bg-cover">
                 <div className="container w-full h-[645px] flex items-center justify-between">
-                    <Card className="mt-6 w-[650px] bg-transparent flex flex-col gap-10 shadow-none text-[#2A3855] rounded-none">
+                    <Card className="mt-6 w-[650px] bg-transparent flex flex-col gap-10 shadow-none text-[#222e47] rounded-none">
                         <CardBody className="flex flex-col gap-10">
                             <Typography variant="h5" color="blue-gray" className="mb-2 text-5xl font-black animate-fade-up animate-duration-1000 animate-delay-500">
                                 Growth Partners
